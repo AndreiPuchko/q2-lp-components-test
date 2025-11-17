@@ -1,0 +1,52 @@
+[
+    {
+        "key": "1",
+        "sentence": "Du {musst} deinen Reisepass vorzeigen.",
+        "words": [
+            "muss",
+            "kann",
+            "willst",
+            "sollen"
+        ]
+    },
+    {
+        "key": "2",
+        "sentence": "Wir {wollen} im Sommer ans Meer fahren.",
+        "words": [
+            "wollt",
+            "wilst",
+            "müssen",
+            "kannst"
+        ]
+    },
+    {
+        "key": "3",
+        "sentence": "Er {kann} sehr gut Klavier spielen.",
+        "words": [
+            "könnt",
+            "muss",
+            "können",
+            "dürfen"
+        ]
+    },
+    {
+        "key": "4",
+        "sentence": "Ihr {dürft} erst ab 18 Jahren Alkohol trinken.",
+        "words": [
+            "darf",
+            "dürfen",
+            "sollt",
+            "kannst"
+        ]
+    },
+    {
+        "key": "5",
+        "sentence": "Ich {soll} die E-Mails von meinem Chef beantworten.",
+        "words": [
+            "sollen",
+            "darfst",
+            "können",
+            "musst"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "key": "1",
+        "sentence": "Wir brauchen einen neuen Drucker, {um} effizienter {zu} arbeiten.",
+        "words": [
+            "zu...-",
+            "damit...-",
+            "-...damit",
+            "-...-"
+        ]
+    },
+    {
+        "key": "2",
+        "sentence": "Der Chef hat mir versprochen, {} eine Gehaltserhöhung {zu} geben",
+        "words": [
+            "zu...-",
+            "-...damit",
+            "um...zu",
+            "-...-"
+        ]
+    },
+    {
+        "key": "3",
+        "sentence": "Es ist schön, {} dich {zu} sehen.",
+        "words": [
+            "um...-",
+            "damit...-",
+            "-...damit",
+            "-...um"
+        ]
+    },
+    {
+        "key": "4",
+        "sentence": "Er fährt früher los, {um} den Zug noch {zu} erreichen.",
+        "words": [
+            "damit...-",
+            "-...-",
+            "zu...um",
+            "zu...-"
+        ]
+    },
+    {
+        "key": "5",
+        "sentence": "Ich habe keine Zeit, {} die Wäsche {zu} waschen.",
+        "words": [
+            "um...-",
+            "damit...-",
+            "-...um",
+            "um...zu"
+        ]
+    }
+]

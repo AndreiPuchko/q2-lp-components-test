@@ -1,0 +1,22 @@
+[
+    {
+        "slot_text": [
+            "Liebes Team vom Kindergarten Zwergenland,",
+            "",
+            "Tobias {kann} morgen früh nicht in den Kindergarten kommen.",
+            "Wir {müssen} zum Zahnarzt gehen.",
+            "Er {will} aber unbedingt danach kommen, denn er {möchte} am Nachmittag gerne beim Kuchenbacken helfen.",
+            "{Kann} ich Tobias gegen 11: 00 Uhr in den Kindergarten bringen?",
+            "{Sollen} wir für den Kuchen etwas mitbringen, Mehl, Eier oder vielleicht eine Schürze?",
+            "Tobias {will} auch seiner {Oma} etwas vom Kuchen mitbringen.",
+            "{Darf} er das?",
+            "Vielen Dank!",
+            "Andres Zambrano"
+        ],
+        "wrong_answers": [
+            "1",
+            "2",
+            "3"
+        ]
+    }
+]

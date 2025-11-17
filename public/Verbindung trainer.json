@@ -1,0 +1,25 @@
+[
+    {
+        "slots_1": {
+            "1": "Jonas: Hey Leute, ich habe bald mein Abitur in der Tasche und alle fragen mich, was ich danach machen will. Einerseits will ich endlich praktisch arbeiten und mein eigenes Geld verdienen, andererseits sagen alle, dass man für eine höhere Position ein Studium braucht. Ich bin total überfordert mit der Entscheidung zwischen Ausbildung und Studium.",
+            "2": "Lena: Ich bin jetzt im dritten Semester an der Universität und merke immer mehr, dass mir das alles zu theoretisch ist. Ich will endlich was mit meinen Händen machen und Berufserfahrung sammeln, anstatt nur in Büchern zu lesen. Ich überlege ernsthaft, mein Studium abzubrechen und mir einen Job als Mechatronikerin zu suchen, aber ich habe Angst, dass das ein Fehler ist.",
+            "3": "Tim: Hi, ich finde die Idee von einem Dualen Studium total super, weil man da Theorie und Praxis verbindet. Aber ich habe gehört, dass man dafür sehr gute Noten braucht und das Auswahlverfahren hart ist. Hat jemand von euch Erfahrungen damit und kann mir sagen, ob sich der ganze Stress lohnt?",
+            "4": "Sabine: Hallo, ich mache mir Sorgen um meinen Sohn. Er hat nur einen mittleren Schulabschluss von der Realschule und absolut keine Ahnung, was er beruflich machen soll. Ich habe Angst, dass er ohne Abitur keine guten Chancen hat. Wo können wir uns denn mal professionell beraten lassen?"
+        },
+        "slots_2": {
+            "a": "Marco: Hör auf dein Bauchgefühl. Wenn du jemand bist, der schnell Berufserfahrung sammeln und Verantwortung übernehmen will, ist der eine Weg vielleicht besser. Wenn du dich aber total für ein wissenschaftliches Thema begeistern kannst und die nötige Disziplin hast, dann passt der andere Weg.",
+            "b": "Ben: Ja, für viele Studiengänge an der Universität brauchst du ein Abitur mit sehr guten Noten, das nennt man Numerus Clausus. Wenn dein Schnitt nicht reicht, musst du manchmal Wartesemester einlegen. Das Auswahlverfahren kann echt frustrierend sein.",
+            "c": "Michael: Dafür gibt es doch extra offizielle Stellen. Geht doch mal zum Berufsinformationszentrum in eurer Stadt. Die haben einen Überblick über alle Möglichkeiten und können euch sicher weiterhelfen.",
+            "d": "Julia: Informier dich mal über BAföG, wenn du studieren willst. Das ist eine staatliche Unterstützung, die du später zum Teil zurückzahlen musst. Viele Studenten haben auch einen Nebenjob, um ihr Studium zu finanzieren und sich etwas leisten zu können.",
+            "e": "Katja: Wir stellen in unserer Firma auch Leute mit einem mittleren Schulabschluss ein. Wichtiger als die Noten sind uns Motivation und Zuverlässigkeit. Die Chancen auf dem Ausbildungsmarkt sind im Moment gar nicht so schlecht, es gibt viele unbesetzte Stellen.",
+            "f": "Laura: Diese Kombination ist auf jeden Fall anspruchsvoll, du musst dich gut organisieren können. Aber dafür verdienst du von Anfang an Geld und hast nach dem Abschluss oft schon einen festen Job in der Firma. Das ist ein riesiger Vorteil gegenüber den Kommilitonen von der Uni.",
+            "x": "x"
+        },
+        "answers": {
+            "_1": "a",
+            "_2": "x",
+            "_3": "f",
+            "_4": "c"
+        }
+    }
+]
