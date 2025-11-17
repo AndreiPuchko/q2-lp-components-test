@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>Q2LP (#L) test page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="https://andreipuchko.github.io/q2-lp-components/esm/q2-lp-components.css">
 </head>
 
@@ -11,6 +12,8 @@
   <div id="root"></div>
 
   <script type="module">
+    window.q2lp_basename = "/q2-lp-components-test/";
+    console.log(document.querySelector('base')?.getAttribute('href') || '/')
     import { createQ2LPWidget } from 'https://andreipuchko.github.io/q2-lp-components/esm/q2lp.esm.js';
     createQ2LPWidget(document.getElementById('root'));
   </script>
